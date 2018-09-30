@@ -1,0 +1,39 @@
+HTML - Hyper Text Markup Language - just describes how something looks
+CSS - Cascading Style Sheets - specific instructions on color, size, etc.
+JS - JavaScript - browsers can understand
+React - Built on JS - makes building stuff easier because you have a framework
+
+if (this is true) {
+    then do this
+} else {
+    otherwise do this
+}
+
+ถ้าเกิดว่า (อันนี้จริง) {
+  ทำอันนี้
+} แล้วถ้าไม่จริง {
+  ทำอันนี้แทน
+}
+
+if (this is true) {
+    then do this
+} else if (this is true) {
+    then do this instead
+} else {
+    otherwise do this
+}
+
+//this is how you comment one line!
+
+function sayHello(name) {
+    console.log(`Hello ${name}!!`);
+}
+
+//call your function
+sayHello("bob");
+sayHello("jim");
+
+/*
+    This is how you comment
+    multiple lines!
+*/
