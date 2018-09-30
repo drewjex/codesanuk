@@ -1,0 +1,38 @@
+Course starts very basic, gets more advanced. For beginners!
+
+Languages covered:
+HTML
+CSS
+JavaScript
+React
+SCSS
+
+Tools covered:
+npm
+webpack
+
+Basic Outline:
+Setup
+Fundamentals
+- Hello World HTML 
+- Hello World JavaScript
+    - including using inspect tool
+- Basic Design with HTML/CSS
+- Basic Animations
+- Basic JavaScript
+
+JavaScript/HTML Projects (not in order)
+- Clock
+- Web Brochure
+- Portfolio
+- Cool Form
+- Music Player
+- Basic Game
+- Cool Loading Animations
+
+React
+- Fundamentals/Setup
+ - npm
+ - webpack
+- Big Project - Personal Portfolio Site
+
