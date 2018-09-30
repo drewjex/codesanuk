@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <style>
+            .animate {
+                display:flex;
+                align-items: center;
+                justify-content: center;
+                height:100%;
+                width:100%;
+            }
+            .animate h1 {
+                animation: rotate 1s ease-in-out infinite;
+            }
+
+            @keyframes rotate {
+                from {
+                    transform: rotate(0deg)
+                } to {
+                    transform: rotate(360deg)
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class='animate'>
+            <h1>Animate Me!</h1>
+        </div>
+    </body>
+</html>
