@@ -12,6 +12,7 @@ npm
 webpack
 
 Basic Outline:
+
 Setup
 Fundamentals
 - Hello World HTML 
@@ -35,4 +36,18 @@ React
  - npm
  - webpack
 - Big Project - Personal Portfolio Site
+
+Website Design Principles
+- Responsive
+- Mobile First
+- Interactive
+
+Coding Principles
+- DRY
+
+Getting a Job, Further Development
+- Links to resoures
+- Stackoverflow
+- Bootcamps
+- Resources in Thailand
 
